@@ -1,0 +1,21 @@
+01. Status of existing checking account
+02. Duration in month
+03. Credit History
+04. Purpose
+05. Credit Amount
+06. Savings accounts/bonds
+07. Present employment since
+08. Installment rate in percentage of disposable income
+09. Personal status and sex
+10. Other debtors / guarantors
+11. Present residence since
+12. Property
+13. Age in years
+14. Other installment plans
+15. Housing
+16. Number of existing credits in the bank
+17. Job
+18. Number of people being liable to provide maintenance for
+19. Telephone
+20. Foreign Worker 
+21. Target

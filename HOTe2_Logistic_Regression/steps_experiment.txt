@@ -1,0 +1,14 @@
+01. Read the data.
+02. Segregate the na rows and store it in another variable.(V1 <- NA's are to be predicted)
+03. From the left data pick 70% as train
+#preprocess it
+#seperate in num and cat
+#seperate target variable
+#standardize
+#and load in model
+04. And 30% as test
+#tune the model
+05. Predict for the V1(NA's)
+06. Merge V1 with the data.
+07. Apply logistic regression on the whole dataset.
+08. Tune the model.
